@@ -10,7 +10,7 @@ def connect_to_server():
 if __name__ == "__main__":
     try:
         client_socket = connect_to_server()
-        print("Conectado exitosa. Escribí los mensajes:")
+        print("Conectado Exitosamente. Escribí los mensajes:")
         
         while True:
             message = input("> ")
