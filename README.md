@@ -146,7 +146,7 @@ Servidor:
 ![Tratando de iniciar el Server nuevamente estando ya inicializado](Captura_de_pantalla_2.png)
 
 ### Borrando la Base de datos Manualmente. El controlador lo detecta y la crea nuevamente sin tirar error
-![Borrando la Base de datos Manualmente.]((Captura_de_pantalla_3.png))
+![Borrando la Base de datos Manualmente.](Captura_de_pantalla_3.png)
 
 
 ## Posibles mejoras futuras y funcionalidades para agregar
